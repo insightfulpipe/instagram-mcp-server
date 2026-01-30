@@ -1,11 +1,14 @@
-# Instagram MCP Server
+# Instagram MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/instagram)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Connect Instagram Business accounts to AI assistants for analytics and content management.**
 
-The Instagram MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your Instagram performance. Monitor engagement, track follower growth, publish content, and get AI-powered content recommendations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The Instagram MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your Instagram performance. Monitor engagement, track follower growth, publish content, and get AI-powered content recommendations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![Instagram MCP Server](https://insightfulpipe.com/images/instagram.svg)
 
@@ -167,11 +170,20 @@ claude mcp add instagram https://instagram.insightfulmcp.com/
 - **Granular permissions** - Control read vs write access
 - **Business/Creator only** - Personal accounts not supported
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Social Media MCP Servers
 - [Facebook Pages MCP](https://insightfulpipe.com/mcp-servers/facebook-pages) - Facebook analytics
-- [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Meta advertising
+- [YouTube MCP](https://insightfulpipe.com/mcp-servers/youtube) - YouTube analytics
 - [TikTok Ads MCP](https://insightfulpipe.com/mcp-servers/tiktok-ads) - TikTok marketing
+
+### Advertising MCP Servers
+- [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Meta advertising
+- [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - Google advertising
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -182,7 +194,12 @@ claude mcp add instagram https://instagram.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
